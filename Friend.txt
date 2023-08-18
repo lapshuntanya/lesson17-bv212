@@ -1,3 +1,4 @@
 class Friend{
+string name;
 	Friend();
 };
